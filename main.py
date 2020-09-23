@@ -11,7 +11,7 @@ import businesscardparser
 # Output: String of user input, seperated by new line
 def getUserInput():
     input_text = ""
-    next_line = input("Put text here:\n")
+    next_line = input("Add business card info here (Newline will end input):\n")
     input_text += next_line
     # while there is a next line
     while(next_line):

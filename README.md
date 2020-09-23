@@ -1,2 +1,2 @@
 # Programming-Challenge
-Asymmetrik challenge
+Programmed for the Asymmetrik challenge
