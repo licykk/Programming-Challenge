@@ -1,6 +1,11 @@
 # Programming-Challenge
 Programmed for the Asymmetrik challenge
 
+<h2> About </h2>
+
+- Completes the 'Business Card OCR' challenge
+- Takes in a text input and gives out name, email, and phone number
+
 <h2> Before you begin </h2>
 
 - This program requires a couple libraries
